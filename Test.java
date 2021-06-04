@@ -1,16 +1,7 @@
 class Test{
-///dummy
-
-
-
-''';oofhewlifubrwgfy
-
-
-
-LkkjbFQLWHB
-
-
-TEST
+public static void main(String[] args){
+  System.out.println("hello world");
+}
 
 
 }
